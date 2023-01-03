@@ -56,7 +56,7 @@ con grandes dificultades".
 
 Germán Theler citó el
 [MMS](https://onscale.com/blog/solve-verification-the-method-of-manufactured-solutions)
-como enfoque para la resolución de ecs. diferenciales.
+como enfoque para la verificación de software de resolución de ecuaciones diferenciales.
 
 <https://nube.cnea.gob.ar/index.php/s/XcnMWXwZQ5SwMdF>
 
