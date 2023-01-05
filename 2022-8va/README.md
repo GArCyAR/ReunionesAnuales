@@ -1,15 +1,16 @@
----
-title: Minuta de la 8a. Reunión Anual GArCyAR 2022
+# Minuta de la 8a. Reunión Anual GArCyAR 2022
 author: Héctor Lestani
-thanks: Agradecimientos por la ayuda en la organización a: A. Weir, R. Zalazar, Z. Prieto, D. Ferraro, G. Theler}
+
+Agradecimientos por la ayuda en la organización a: A. Weir, R. Zalazar, Z. Prieto, D. Ferraro, G. Theler
+
 date: 2022-12-26
-...
+
 
 
 > En GArCyAR queremos pasar al siguiente paso.
 > El Grupo Argentino de Cálculo y Análisis de Reactores quiere aportar mediante la cooperación de sus miembros, apuntando a resolver problemas que tengan un impacto positivo en la industria nuclear argentina; que si un calculista tiene una dificultad pueda encontrar eco y respuestas en esta comunidad; que sigamos respetando las reglas y restricciones de las instituciones a las que pertenecemos pero que, conscientes de que somos pocos, podamos proyectarnos en conjunto. Ya hemos logrado realizar reuniones periódicas mostrando nuestras capacidades y recibiendo aplausos y palmaditas en la espalda, pero podemos más, podemos además ser un foro de cooperación.
 > Es en ese espíritu de apertura que esta primera _Minuta de la 8a. Reunión Anual_ recibirá el aporte de sus participantes a través de la cuenta de [_GArCyAR_ en GitHub](https://github.com/GArCyAR).
-> Para realizar aportes, correcciones, comentarios, dirigirse a <https://github.com/GArCyAR/reuniones>.^[Agradecimientos por la ayuda en la organización a: A. Weir, R Zalazar, Z. Prieto, D. Ferraro, G. Theler]
+> Para realizar aportes, correcciones, comentarios, dirigirse a [La Minuta](https://github.com/GArCyAR/ReunionesAnuales/blob/main/2022-8va).
 
 
 El 5 de diciembre llevamos a cabo la 8a. Reunión Anual del Grupo
@@ -37,7 +38,8 @@ Diego Ferraro compartió un enlace donde se puede averiguar más sobre el
 proyecto: <https://cordis.europa.eu/project/id/945063> Y la web oficial
 del proyecto es: <https://mcsafer-h2020.eu/>
 
-<https://nube.cnea.gob.ar/index.php/s/ESzESnPpBKj4Gnj>
+[La presentación está disponible en la Nube de
+CNEA](https://nube.cnea.gob.ar/index.php/s/ESzESnPpBKj4Gnj)
 
 ## INVAP's neutronic Design and Analysis group: on-going efforts
 
@@ -58,7 +60,8 @@ Germán Theler citó el
 [MMS](https://onscale.com/blog/solve-verification-the-method-of-manufactured-solutions)
 como enfoque para la verificación de software de resolución de ecuaciones diferenciales.
 
-<https://nube.cnea.gob.ar/index.php/s/XcnMWXwZQ5SwMdF>
+[La presentación está disponible en la Nube de
+CNEA](https://nube.cnea.gob.ar/index.php/s/XcnMWXwZQ5SwMdF)
 
 ## Progreso y plan de desarrollo en la línea de cálculo de INVAP
 
@@ -74,7 +77,8 @@ multiplicidad lleva a una mejor depuración de los códigos. Con respecto
 a documentación, validación y métodos, dijo que nada que no esté
 documentado se puede utilizar en evaluaciones de seguridad nuclear.
 
-<https://nube.cnea.gob.ar/index.php/s/jPEAnEEb3MFFaCd>
+[La presentación está disponible en la Nube de
+CNEA](https://nube.cnea.gob.ar/index.php/s/jPEAnEEb3MFFaCd)
 
 ## A cloud-first approach for solving core-level neutron transport
 
@@ -97,7 +101,8 @@ a export control, como el caso de SERPENT. Germán respondió que si hay
 información sensible a cuidar deberían ser los datos nucleares, no las
 herramientas de resolución de las ecuaciones.
 
-<https://nube.cnea.gob.ar/index.php/s/fKbSGejfF9FRA7z>
+[La presentación está disponible en la Nube de
+CNEA](https://nube.cnea.gob.ar/index.php/s/fKbSGejfF9FRA7z)
 
 ## Desarrollo de Código Nodal para Cálculos de Núcleo
 
@@ -118,7 +123,8 @@ Finalizó contando los planes futuros en la línea de desarrollo. El
 propietario del código es CNEA y aún no saben si será manejado igual que
 PUMA.
 
-<https://nube.cnea.gob.ar/index.php/s/ibTfyfJA3bBXWJE>
+[La presentación está disponible en la Nube de
+CNEA](https://nube.cnea.gob.ar/index.php/s/ibTfyfJA3bBXWJE)
 
 ## Opciones de generación de geometrías Monte Carlo a partir de planos mecánicos 3D
 
@@ -149,7 +155,8 @@ materiales de vaina, como el FeCrAl, una vaina de ATFs.
 
 Presentó resultados prometedores de combustibles ATF.
 
-<https://nube.cnea.gob.ar/index.php/s/qfNsyer9wHCkcsR>
+[La presentación está disponible en la Nube de
+CNEA](https://nube.cnea.gob.ar/index.php/s/qfNsyer9wHCkcsR)
 
 ## Nueva metodología de cálculo de Parámetros Cinéticos
 
@@ -181,13 +188,14 @@ de partículas, al usar KDE.
 Compartió recursos con documentación y ejemplos, y el enlace de GitHub
 para bajar el paquete.
 
-<https://nube.cnea.gob.ar/index.php/s/Ey4adiEY58bt23Y>
+[La presentación está disponible en la Nube de
+CNEA](https://nube.cnea.gob.ar/index.php/s/Ey4adiEY58bt23Y)
 
 ## Sesión Matutina
 
 Con la charla anterior se terminó la serie de presentaciones.
 Compartimos el enlace a la [grabación de la sesión
-matutina: <https://nube.cnea.gob.ar/index.php/s/rHYm8Z9KEo5xcag>.
+matutina](https://nube.cnea.gob.ar/index.php/s/rHYm8Z9KEo5xcag).
 Desafortunadamente la sesión de la tarde no pudo ser grabada.
 
 # Discusión de temas abiertos
