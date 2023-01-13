@@ -16,7 +16,7 @@ date: 2022-12-26
 
 El 5 de diciembre llevamos a cabo la 8a. Reunión Anual del Grupo
 Argentino de Cálculo y Análisis de Reactores, con el siguiente
-[cronograma](https://nube.cnea.gob.ar/index.php/s/a8Jn84TpLYyGj99). En
+[cronograma](https://github.com/GArCyAR/ReunionesAnuales/blob/main/2022-8va/Cronograma.pdf). En
 esta minuta se enumeran las presentaciones realizadas y se ponen a
 disposición enlaces para bajar los archivos.
 
