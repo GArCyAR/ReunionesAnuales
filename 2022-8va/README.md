@@ -1,7 +1,8 @@
 # Minuta de la 8a. Reunión Anual GArCyAR 2022
 author: Héctor Lestani
 
-Agradecimientos por la ayuda en la organización a: A. Weir, R. Zalazar, Z. Prieto, D. Ferraro, G. Theler
+Agradecimientos a A. Weir, R. Zalazar, Z. Prieto y D. Ferraro por la ayuda en la organización.
+Agradecimientos a G. Theler por la ayuda con el foro, y la publicación electrónica de presentaciones y videos.
 
 date: 2022-12-26
 
@@ -38,8 +39,8 @@ Diego Ferraro compartió un enlace donde se puede averiguar más sobre el
 proyecto: <https://cordis.europa.eu/project/id/945063> Y la web oficial
 del proyecto es: <https://mcsafer-h2020.eu/>
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/ESzESnPpBKj4Gnj)
+[El archivo de la presentacin está disponible aquí.](https://seamplex.com/garcar/2022/1-PresentacionMcSAFER.pdf)
+[El video de la presentacin está disponible aquí.](https://www.youtube.com/watch?v=5oWiYCOh1j0&t=1s)
 
 ## INVAP's neutronic Design and Analysis group: on-going efforts
 
@@ -60,8 +61,8 @@ Germán Theler citó el
 [MMS](https://onscale.com/blog/solve-verification-the-method-of-manufactured-solutions)
 como enfoque para la verificación de software de resolución de ecuaciones diferenciales.
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/XcnMWXwZQ5SwMdF)
+[La presentación está disponible aquí.](https://seamplex.com/garcar/2022/2-Ferraro_INVAP_GarCyAr2022_upload.pdf)
+[El video de la presentación está disponible aquí.](https://www.youtube.com/watch?v=oLVPzeRXMao)
 
 ## Progreso y plan de desarrollo en la línea de cálculo de INVAP
 
@@ -77,8 +78,9 @@ multiplicidad lleva a una mejor depuración de los códigos. Con respecto
 a documentación, validación y métodos, dijo que nada que no esté
 documentado se puede utilizar en evaluaciones de seguridad nuclear.
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/jPEAnEEb3MFFaCd)
+[La presentación está disponible aquí](https://seamplex.com/garcar/2022/3-Progreso%20y%20planes%20de%20desarrollo.pdf).
+[El video de la presentación está disponible aquí.](https://www.youtube.com/watch?v=ozybk4n-N9c)
+
 
 ## A cloud-first approach for solving core-level neutron transport
 
@@ -101,8 +103,8 @@ a export control, como el caso de SERPENT. Germán respondió que si hay
 información sensible a cuidar deberían ser los datos nucleares, no las
 herramientas de resolución de las ecuaciones.
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/fKbSGejfF9FRA7z)
+[La presentación está disponible aquí](https://seamplex.com/garcar/2022/4-ACloudFirstApproach.pdf).
+[El video de la presentación está aquí.](https://www.youtube.com/watch?v=rdZtyMf5m0k)
 
 ## Desarrollo de Código Nodal para Cálculos de Núcleo
 
@@ -123,8 +125,8 @@ Finalizó contando los planes futuros en la línea de desarrollo. El
 propietario del código es CNEA y aún no saben si será manejado igual que
 PUMA.
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/ibTfyfJA3bBXWJE)
+[La presentación está disponible aquí](https://seamplex.com/garcar/2022/5-DesarrolloDeCodigoNodalParaCalculosDeNucleo_Dacal2022_Garcyar.pptx).
+[El video de la presentación está aquí.](https://www.youtube.com/watch?v=ygxdkrwehFA)
 
 ## Opciones de generación de geometrías Monte Carlo a partir de planos mecánicos 3D
 
@@ -138,8 +140,8 @@ Concluyó con recomendaciones para todo el proceso, desde el modelado CAD
 hasta el transporte de radiación. Y compartió un video mostrando la
 integración del campo de radiación a un modelo de realidad virtual.
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/pKfrP7LwqMQ9KMA).
+[La presentación está disponible aquí](https://seamplex.com/garcar/2022/6-Meier_MonteCarloAPartirDePlanosMecanicos3D.pptx).
+Las presentaciones de la tarde no pudieron ser grabadas en video.
 
 ## Optimización ciclo combustible CAREM. Evaluación uso ATFs.
 
@@ -155,8 +157,8 @@ materiales de vaina, como el FeCrAl, una vaina de ATFs.
 
 Presentó resultados prometedores de combustibles ATF.
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/qfNsyer9wHCkcsR)
+[La presentación está disponible aquí.](https://seamplex.com/garcar/2022/7-OptimizacionCicloCombustibleCAREM.pdf)
+Las presentaciones de la tarde no pudieron ser grabadas en video.
 
 ## Nueva metodología de cálculo de Parámetros Cinéticos
 
@@ -171,8 +173,8 @@ Presentó resultados muy satisfactorios de V&V con respecto a arreglos
 críticos y a la línea de cálculo actual. Se mostró también la
 sensibilidad a la cantidad de grupos de biblioteca utilizados.
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/5SWRTxdeyQ2bY8L).
+[La presentación está disponible aquí.](https://seamplex.com/garcar/2022/8-NuevaetodologiaKP.pdf).
+Las presentaciones de la tarde no pudieron ser grabadas en video.
 
 ## Tutorial KDSource.
 
@@ -188,15 +190,9 @@ de partículas, al usar KDE.
 Compartió recursos con documentación y ejemplos, y el enlace de GitHub
 para bajar el paquete.
 
-[La presentación está disponible en la Nube de
-CNEA](https://nube.cnea.gob.ar/index.php/s/Ey4adiEY58bt23Y)
+[La presentación está disponible aquí.](https://seamplex.com/garcar/2022/9-Tutorial-KDSource.pdf)
+Las presentaciones de la tarde no pudieron ser grabadas en video.
 
-## Sesión Matutina
-
-Con la charla anterior se terminó la serie de presentaciones.
-Compartimos el enlace a la [grabación de la sesión
-matutina](https://nube.cnea.gob.ar/index.php/s/rHYm8Z9KEo5xcag).
-Desafortunadamente la sesión de la tarde no pudo ser grabada.
 
 # Discusión de temas abiertos
 
