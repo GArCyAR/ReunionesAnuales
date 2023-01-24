@@ -130,7 +130,7 @@ PUMA.
 
 ## Opciones de generación de geometrías Monte Carlo a partir de planos mecánicos 3D
 
-Gabriel Meyer presentó varias metodologías para generar inputs Monte
+Hernán Meier presentó varias metodologías para generar inputs Monte
 Carlo a partir de planos mecánicos 3D, motivado en la creciente
 necesidad de integración de distintas herramientas de ingeniería, en
 particular el diseño mecánico y el modelado neutrónico (n, p). Comentó
