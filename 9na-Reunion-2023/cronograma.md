@@ -1,6 +1,6 @@
 <div align="center">
 <img src="arn.png" alt="drawing" height="50"/> 
-<img src="Logo_cbea.png" alt="drawing" height="50"/> 
+<img src="Logo_cnea.png" alt="drawing" height="50"/> 
 <img src="invap.png" alt="drawing" height="50"/> 
 <img src="LogoNASA2.png" alt="drawing" height="50"/>
 <img src="seamplexcloud.svg" alt="drawing" height="50"/>
