@@ -31,7 +31,7 @@
 :---:|:---:|:---:|:---:
  8:00 |  |  | Acreditación en Recepción de NA-SA (planta baja)
  9:00 | M. Silva | NASA | Sesión de inicio, preliminares y programación.
- 9:20 | E. Villarino | Anses  | Condorcito 1d multigroup CP module.
+ 9:20 | E. Villarino | Anses  | Coondorcito 1d multigroup CP module.
  9:40 | M. Lemes | CNEA | Modelado de ATF en el código de combustible Dionisio.
  10:00 | G. Theler[^1] | Seamplex  | [Sobre la verificación de un Solver neutrónico con el método de soluciones fabricadas.](mms.md)
  10:20 | | | Pausa para el café.
