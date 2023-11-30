@@ -1,13 +1,24 @@
 # Verification of multigroup neutron diffusion codes with MMS
 
-Repositorio con el source en markdown de los slides:
+ * Repositorio con el source en markdown de los slides:
 
-<https://github.com/gtheler/2023-garcar>
+   <https://github.com/gtheler/2023-garcar>
+   
+ * Página central de FeenoX
+ 
+   <https://seamplex.com/feenox>
 
+ * Link a la sección de mi tesis de doctorado en la que se basa esta charla:
+ 
+   <https://seamplex.com/thesis/html/060-resultados/README.html#sec-mms-dif>
+   
+ * Link al subdirectorio de las fuentes de la tesis con los scripts, inputs, etc.
+  
+   <https://github.com/gtheler/thesis/tree/main/060-resultados/090-mms>
+ 
 
-## Links a charlas previas (relacionadas con esta)
+## Links a charlas previas relacionadas
 
-<https://seamplex.com/feenox>
 
 ### FeenoX
 
