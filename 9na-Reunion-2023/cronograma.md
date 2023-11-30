@@ -10,29 +10,30 @@
 
 ---
 
-<img src="banner1.jpg" alt="drawing" />
+![](banner1.jpg)
 
 **5 y 6 de diciembre en NASA, Edificio Nodus**, Laprida 3163, Villa Martelli, Vicente López, Buenos Aires.
 
 **7 de diciembre de 2023, Visita a Atucha/CAREM**, Salida desde Sede CNEA, Libertador 8250, CABA.
 
-**Sala de reunión virtual:** https://meet.google.com/xtz-ayho-ovc
+**Sala de reunión virtual:** <https://meet.google.com/xtz-ayho-ovc>
 
-**Contacto:** Martín Silva, msilva@na-sa.com.ar, Tel: 011 5129 7700 int. 58529, WA: 341 6 044740
+**Contacto:** Martín Silva, <msilva@na-sa.com.ar>, Tel: 011 5129 7700 int. 58529, WA: 341 6 044740
 
 ---
 
 
 ## Cronograma
-### Martes 5 de diciembre - Nodus - Sala José Balseiro (Piso 5):
+
+### Martes 5 de diciembre - Nodus - Sala José Balseiro (Piso 5)
 
  Hora | Expositor | Institución  | Título
 :---:|:---:|:---:|:---:
  8:00 |  |  | Acreditación en Recepción de NA-SA (planta baja)
  9:00 | M. Silva | NASA | Sesión de inicio, preliminares y programación.
- 9:20 | E. Villarino | Anses  | Coondorcito 1d multigroup CP module.
+ 9:20 | E. Villarino | Anses  | Condorcito 1d multigroup CP module.
  9:40 | M. Lemes | CNEA | Modelado de ATF en el código de combustible Dionisio.
- 10:00 | G. Theler* | Seamplex  | Sobre la verificación de un Solver neutrónico con el método de soluciones fabricadas.
+ 10:00 | G. Theler[^1] | Seamplex  | [Sobre la verificación de un Solver neutrónico con el método de soluciones fabricadas.](mms.md)
  10:20 | | | Pausa para el café.
  10:40 | J. Beliera | CNEA  | Avances en desarrollo de código de celda.
  11:00 | C. Dacal | CNEA  | Avances en el desarrollo de código nodal.
@@ -41,7 +42,7 @@
  13:30 | **Mesa Redonda** Modera:.M.Silva|  | Necesidades de desarrollo y perspectivas de colaboración entre instituciones.
  15:30 | || Planificación día 2. Cierre de sesiones día 1.
 
-##### \* Expone en forma virtual
+[^1]: Expone en forma virtual
 
 ---
 
@@ -63,7 +64,8 @@ Hora | Expositor | Institución |  Título
 
 ---
 
-### Jueves 7 de diciembre - Visita Atucha/CAREM:
+### Jueves 7 de diciembre - Visita Atucha/CAREM
+
 #### Traer DNI y credencial de institución
 
 Hora | Lugar | Actividad
@@ -83,6 +85,7 @@ Hora | Lugar | Actividad
 
 ---
 
-## Cena de camaradería:
+## Cena de camaradería
+
 Fecha tentativa el miércoles 6 en horario y lugar a confirmar.
 
